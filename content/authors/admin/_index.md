@@ -73,5 +73,5 @@ email: 'yaswanthbabuvunnam@gmail.com'
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello! This is Yashwanth. I believe problems cannot be solved with the same level of thinking that created them. I am passionate in developing new and novel algorithms and solutions in the domain of AI especially in NLP and IR. 
 {style="text-align: justify;"}
