@@ -23,11 +23,11 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Software Engineer
-    company: Google 
+    company: Samsung R&D Institute 
     company_url: ''
     company_logo: google_logo
-    location: Bengaluru, India
-    date_start: '2022-07-04'
+    location: Delhi, India
+    date_start: '2022-06-06'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -39,10 +39,10 @@ experience:
   - title: Software Engineer Intern
     company: Microsoft
     company_url: ''
-    company_logo: google_logo
-    location: Hyderabad, India
-    date_start: '2020-05-10'
-    date_end: '2020-07-04'
+    company_logo: Samsung R&D Institute 
+    location: Delhi, India
+    date_start: '2021-06-01'
+    date_end: '2021-07-31'
     description: Worked on devloping the config entity
 
 design:
