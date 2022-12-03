@@ -25,7 +25,7 @@ experience:
   - title: Software Engineer
     company: Samsung R&D Institute 
     company_url: ''
-    company_logo: google_logo
+    company_logo: samsung R&D Institute
     location: Delhi, India
     date_start: '2022-06-06'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
   - title: Software Engineer Intern
     company: Microsoft
     company_url: ''
-    company_logo: Samsung R&D Institute 
+    company_logo: samsung R&D Institute
     location: Delhi, India
     date_start: '2021-06-01'
     date_end: '2021-07-31'
