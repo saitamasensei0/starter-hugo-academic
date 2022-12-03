@@ -39,7 +39,7 @@ experience:
   - title: Software Engineer Intern
     company: Microsoft
     company_url: ''
-    company_logo: microsoft_logo
+    company_logo: google_logo
     location: Hyderabad, India
     date_start: '2020-05-10'
     date_end: '2020-07-04'
