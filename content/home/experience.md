@@ -43,7 +43,7 @@ experience:
     location: Delhi, India
     date_start: '2021-06-01'
     date_end: '2021-07-31'
-    description: Worked on devloping the config entity
+    description: W
 
 design:
   columns: '2'
