@@ -46,9 +46,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Added a new feature to an existing implementation to visualize internal service data in the OPS portal team.
-        * Automated Cloud workspace vendor data sync of 700+ instances of internal services of Samsung TV.
-        * Performed portal maintenance and upgrades including patches and hotfixes.
+        * Developed a utility to download video segment files from an m3u8 url (media folder in server) to a local destination.
+        * Provided a utility to create a master m3u8 file for both VOD and live streaming purposes with the support for multiple bit-rates.
+        * Adapted the utility to support LL-HLS to lower the video latencies while also maintaining its scalability.
 
 design:
   columns: '2'
