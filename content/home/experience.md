@@ -45,8 +45,7 @@ experience:
     date_end: '2021-07-31'
     description: |2 -
         Responsibilities include:
-      
-      
+        
         * Developed a utility to download video segment files from an m3u8 url (media folder in server) to a local destination.
         * Provided a utility to create a master m3u8 file for both VOD and live streaming purposes with the support for multiple bit-rates.
         * Adapted the utility to support LL-HLS to lower the video latencies while also maintaining its scalability.
