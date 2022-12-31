@@ -1,5 +1,5 @@
 ---
-title: Rumor detection and stance classification in tweets
+title: Ontology Creation for Sports
 summary: ' '
 tags:
   - Deep Learning
@@ -30,9 +30,10 @@ url_video: ''
 # slides: example
 ---
 
-• Enhanced accuracy by 2% by using stance classification from ‘Multi-task Learning for Rumor Verification’ in
-‘Going Beyond Content Richness: Verified Information Aware Summarization of Crisis-Related Microblogs’ Tree
-LSTM-based rumor detection.
+• Developed a Sports statistics system, which would provide the respective sports statistics for the SPARQL query the user puts.
 
-• Processed the PHEME9 data set for both top-down and bottom-up approaches to suit ‘Rumor Detection on
-Twitter with Tree-structured Recursive Neural Networks’ model.
+• Extracted data from various websites and merged the data into respective categories.
+
+• Created a federated ontology using Prot ́eg ́e in a combination of both top-down and bottom-up approaches.
+
+• Created Semantic mappings for every attribute and loaded the data into an RDF triple store.
