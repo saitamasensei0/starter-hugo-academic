@@ -1,15 +1,16 @@
 ---
-title: 'Decoding Demographic un-fairness
-from Indian Names'
+title: 'Sponsored is the New Organic: Quantifying the Extent of Private Label Product Promotion on E-commerce Search'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Vahini Medidoddi
-  - admin
-  - Souvic Chakraborty
-  - Animesh Mukherjee
+  - A.Dash 
+  - S.Jaiswal
+  - Y.B.Vunnam
+  - N.Shroff
+  - A.Mukherjee
+  - S.Ghosh. 
 
 # Author notes (optional)
 # author_notes:
@@ -21,6 +22,10 @@ authors:
 date: '2022-10-19T00:00:00Z'
 doi: ''
 
+
+
+• 
+
 # Schedule page publish date (NOT publication's date).
 publishDate: ''
 
@@ -31,8 +36,8 @@ publishDate: ''
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Social Informatics, 2022*
-publication_short: In *SocInfo'22*
+publication: In *ACM Conference on Fairness, Accountability, and Transparency, 2023*
+publication_short: In *ACM FAccT 2023*
 
 abstract: ''
 
