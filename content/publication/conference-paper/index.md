@@ -19,7 +19,7 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2023-01-19T00:00:00Z'
+date: '2022-10-19T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -37,7 +37,7 @@ publication_short: In *ACM FAccT 2023*
 
 abstract: ''
 
-summary: 'In Preparation'
+summary: ''
 
 tags: ['NLP']
 
