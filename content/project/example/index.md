@@ -1,6 +1,6 @@
 ---
 title: Rumor detection and stance classification in tweets
-summary: 
+summary: ' '
 tags:
   - Deep Learning
 date: '2016-04-27T00:00:00Z'
@@ -27,7 +27,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
 
 • Enhanced accuracy by 2% by using stance classification from ‘Multi-task Learning for Rumor Verification’ in
