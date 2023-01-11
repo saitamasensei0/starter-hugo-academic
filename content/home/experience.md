@@ -37,7 +37,7 @@ experience:
         * Performed portal maintenance and upgrades including patches and hotfixes.
 
   - title: Software Engineer Intern
-    company: Microsoft
+    company: Samsung R&D Institute 
     company_url: ''
     company_logo: srid
     location: Delhi, India
