@@ -57,7 +57,7 @@ social:
     icon_pack: fab
     link: https://github.com/saitamasensei0
   - icon: linkedin
-    icon_pack: fablink
+    icon_pack: fab
     link: https://www.linkedin.com/in/yashwanth-babu-vunnam-4435831b6/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
